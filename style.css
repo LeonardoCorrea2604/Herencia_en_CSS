@@ -1,0 +1,25 @@
+#unique-div #unique-title{
+    color: crimson;
+}
+
+
+div h1{
+    color: cornflowerblue;
+}
+
+.my-title{
+    color: violet;
+}
+
+h1{
+    color: chartreuse;
+}
+
+/*
+h1 {
+    color: darkslateblue !important;
+    font-style: italic !important;
+} */
+
+/* Important no se usa */
+
